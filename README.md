@@ -147,7 +147,8 @@ Publish the website in the given URL.
 </body>
 </html>
 
-## OUTPUT:
+## OUTPUT:![image](https://github.com/jeeva078/Calc/assets/147048597/4994c11f-b433-4a92-961a-9c51bc0e9e48)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
